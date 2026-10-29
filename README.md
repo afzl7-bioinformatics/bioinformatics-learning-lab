@@ -15,5 +15,6 @@ My practical journey in programming and bioinformatics.
 ## Projects 
 Projects and experiments will be added as I progress.
 
+
 --- 
 Learning by building, one commit at a time.
